@@ -1,0 +1,82 @@
+*{
+	margin: 0; 
+	padding: 0;
+}
+body {
+    background: url("imagen/estadio.jpg") no-repeat fixed center #333;
+           background-size: cover;
+}
+
+
+header {
+    background-size: cover;
+}
+nav{
+	padding:1em;
+	height: 30%;
+	border-bottom: 2.5px solid #FFFF00;
+	background-color: #FFFF00;
+    margin-right: 5px;
+    color: white;
+}
+nav a{
+	margin-right: 1em;
+	font-size: 1.3em;
+	color: black;
+    	
+}
+h2{
+    color:red;
+}
+
+#contenido1 p{
+	color: white;
+	font-size: 1.6em;
+	line-height: 1.2 em;
+	margin-bottom: 0.3em;
+}
+
+#contenido1 article p{
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+}
+
+#contenido1 article img{
+	margin-right: 1em;
+	float: left;
+}
+footer p{
+    text-align: center;
+	font-style: italic;
+}
+
+footer div{
+    color:black;
+}
+
+header h3{
+    color:violet;
+	padding: 1em;
+	font-size: 40px;
+
+	
+}
+header table{
+    color:white;
+	padding: 1em;
+    font-size: 40px;
+}
+
+div img{
+    margin-top: .5em;
+    margin-bottom: .5em;
+    margin-left: .1em;
+    margin-right: .5em;
+}
+    iframe{
+        
+        margin-top: .5em;
+        margin-bottom: .5em;
+        margin-left: .1em;
+        margin-right: .5em;  
+}
